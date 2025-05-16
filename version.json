@@ -1,6 +1,6 @@
 {
   "current": "0.0.16",
-  "link": "https://github.com/matteocrippa/leafminer/releases/download/v{{version}}/firmware_{{device}}.bin",
+  "link": "https://github.com/vem882/leafminer/releases/download/v{{version}}/firmware_{{device}}.bin",
   "devices": [
     "esp8266",
     "esp32",
